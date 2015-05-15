@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>chilerut</name>
+	<displayName><![CDATA[Chile Rut]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[A&ntilde;ade validaciones para el rut de chile]]></description>
+	<author><![CDATA[Francisco Gonzalez]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Seguro que desea quitar la validación?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
